@@ -129,11 +129,13 @@ Before submitting, confirm:
 - `output.csv` has the exact required columns in the exact required order.
 - Your runnable code and setup instructions are included in `code.zip`.
 -->
-# Message Notification Router — Solution
+# Message Notification Router
 
-A personalized WhatsApp message router that decides `notify` / `digest` / `mute`
+<!--A personalized WhatsApp message router that decides `notify` / `digest` / `mute`
 for every incoming message, using Google Gemini (free tier) for multimodal
-reasoning plus a deterministic retrieval and safety layer.
+reasoning plus a deterministic retrieval and safety layer.-->
+
+An AI-powered WhatsApp notification router that uses multimodal LLM reasoning, personalized retrieval, and deterministic safety rules to classify messages into `notify`, `digest`, or `mute`.
 
 ## How it works
 
